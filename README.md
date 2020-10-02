@@ -1,0 +1,1 @@
+Teste-sans-git-ignore
